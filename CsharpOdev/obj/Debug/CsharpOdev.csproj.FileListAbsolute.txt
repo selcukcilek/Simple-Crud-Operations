@@ -1,0 +1,15 @@
+C:\Users\selcu\source\repos\CsharpOdev\CsharpOdev\bin\Debug\CsharpOdev.exe.config
+C:\Users\selcu\source\repos\CsharpOdev\CsharpOdev\bin\Debug\CsharpOdev.exe
+C:\Users\selcu\source\repos\CsharpOdev\CsharpOdev\bin\Debug\CsharpOdev.pdb
+C:\Users\selcu\source\repos\CsharpOdev\CsharpOdev\obj\Debug\CsharpOdev.csprojAssemblyReference.cache
+C:\Users\selcu\source\repos\CsharpOdev\CsharpOdev\obj\Debug\MainWindow.g.cs
+C:\Users\selcu\source\repos\CsharpOdev\CsharpOdev\obj\Debug\App.g.cs
+C:\Users\selcu\source\repos\CsharpOdev\CsharpOdev\obj\Debug\CsharpOdev_MarkupCompile.cache
+C:\Users\selcu\source\repos\CsharpOdev\CsharpOdev\obj\Debug\CsharpOdev_MarkupCompile.lref
+C:\Users\selcu\source\repos\CsharpOdev\CsharpOdev\obj\Debug\MainWindow.baml
+C:\Users\selcu\source\repos\CsharpOdev\CsharpOdev\obj\Debug\CsharpOdev.g.resources
+C:\Users\selcu\source\repos\CsharpOdev\CsharpOdev\obj\Debug\CsharpOdev.Properties.Resources.resources
+C:\Users\selcu\source\repos\CsharpOdev\CsharpOdev\obj\Debug\CsharpOdev.csproj.GenerateResource.cache
+C:\Users\selcu\source\repos\CsharpOdev\CsharpOdev\obj\Debug\CsharpOdev.csproj.CoreCompileInputs.cache
+C:\Users\selcu\source\repos\CsharpOdev\CsharpOdev\obj\Debug\CsharpOdev.exe
+C:\Users\selcu\source\repos\CsharpOdev\CsharpOdev\obj\Debug\CsharpOdev.pdb
